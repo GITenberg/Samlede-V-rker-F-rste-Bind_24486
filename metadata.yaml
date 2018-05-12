@@ -1,0 +1,34 @@
+_repo: Samlede-V-rker-F-rste-Bind_24486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aakjær, Jeppe
+    aliases:
+    - Aakjar, Jappe
+    - Aakjaer, Jeppe
+    - Aakjär, Jäppe
+    - Aakjaer, Jaeppe
+    birthdate: 1866
+    deathdate: 1930
+    gutenberg_agent_id: '26525'
+    url: http://www.gutenberg.org/2009/agents/26525
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jeppe_Aakj%C3%A6r
+    - http://da.wikipedia.org/wiki/Jeppe_Aakj%C3%A6r
+description: ''
+gutenberg_issued: '2008-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24486'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish poetry'
+- !lcc 'PT'
+title: Samlede Værker, Første Bind
+url: http://www.gutenberg.org/ebooks/24486
